@@ -11,13 +11,18 @@ To stand out as a top candidate, you will need to apply program logic by creatin
 
 Summarize the project and what problem it was solving.
  	 The project was to create a clock that could convert times into 12hr and 24hr formats. You also had to be able to add and subtract minutes as necessary. 
+
 What did you do particularly well?
 	I was able to code the program efficiently and quickly. I gave the user an easy way to add hours, minutes and seconds.
+
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 	Some ideas I had was to have the code automatically display certain time zones and calculate the difference in the time zones. I also would like to make the output look a little nicer. Utilize whitespace and adding borders. 
+
 Which pieces of code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 	The hardest part of the code was the carry over time. Adding minutes to the 24-hour schedule vs the 12-hr. schedule. One goes to 13 and one goes to 1 pm. Then carry over minutes and seconds when 60 is reached. 
+
 What skills from this project will be particularly transferable to other projects or course work?
 	Really had me working on functions and how the computer thinks mathematically. So, with any project that I am adding or subtracting items with measurements.  
+
 How did you make this program maintainable, readable, and adaptable?
 	I made a readable menu that someone could use and if they didn’t put the correct info in, I corrected the user. Made it simple so that everyone could understand and access the information. 
